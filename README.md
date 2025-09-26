@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm from germany and have started programming since I was 13 years old. I use VSCode and have mainly focused on C++(mostly with SFML), HTML, CSS and some JavaScript.
+
+Contact me under:
+  -doell.simonff@gmail.com
+
+
 <!--
 **SimonDoell/SimonDoell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
