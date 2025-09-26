@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I'm a software from germany and have started programming since I was 13 years old. I use VSCode and have mainly focused on C++(mostly with SFML), HTML, CSS and some JavaScript.
 
