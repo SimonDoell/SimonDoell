@@ -2,7 +2,7 @@
 
 I'm from germany and have started programming since I was 13 years old. I use VSCode and have mainly focused on C++(mostly with SFML), HTML, CSS and some JavaScript.
 
-Contact me under:
+Contact me under:\n
   -doell.simonff@gmail.com
 
 
