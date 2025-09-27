@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm a software engineer from germany and have started programming since I was 13 years old. I use VSCode and have mainly focused on C++(with SFML), HTML, CSS and some JavaScript.
+I'm a software developer from germany and have started programming since I was 13 years old. I use VSCode and have mainly focused on C++(with SFML), HTML, CSS and some JavaScript.
 
 **Contact me under:**
   -doell.simonff@gmail.com
