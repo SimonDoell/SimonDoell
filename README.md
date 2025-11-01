@@ -3,7 +3,7 @@
 I'm a software developer from germany and have started programming since I was 13 years old. I use VSCode and have mainly focused on C++(with SFML), HTML and CSS.
 
 **Contact me under:**
-  -doell.simonff@gmail.com
+  -doell.simonf@gmail.com
 
 **Website:**
   -https://simondoell.github.io
