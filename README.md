@@ -2,7 +2,7 @@
 
 I'm a software developer from germany and started programming since I was 13 years old.
 I have been mainly focusing on building programms with C++ and graphics API's and making interactive programms, such as simulations.
-I have recently started looking into the fascinating topic of machine learning and have developed some general use neural nets with C++,
+I have recently started looking into the fascinating topic of machine learning and have developed some general use neural networks with C++,
 and am trying my best to build a reinforcement learning framework.
 
 
