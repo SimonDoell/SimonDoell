@@ -1,3 +1,7 @@
+**Contact me under:**
+  doell.simonf@gmail.com
+
+<!--
 ## About me
 
 I'm a software engineer from germany and started programming since I was 13 years old.
